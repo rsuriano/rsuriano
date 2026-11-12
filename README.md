@@ -3,7 +3,7 @@
 I am a developer. I make small, complete products under Bedrock Labs.
 I have a background in crypto and blockchain. I also make games for fun.
 
-## What I build
+## Projects
 
 - **[Cue Board](https://github.com/rsuriano/cue-board)**: plan an AI music video against a song.
   Cut the song into shots, keep the frames and takes for each shot, and render an MP4.
