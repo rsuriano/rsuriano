@@ -8,7 +8,7 @@ I have a background in crypto and blockchain. I also make games for fun.
 - **[Cue Board](https://github.com/rsuriano/cue-board)**: plan an AI music video against a song.
   Cut the song into shots, keep the frames and takes for each shot, and render an MP4.
   Open source. [Live app](https://cue.bedrocklabs.dev)
-- **[Long](https://github.com/rsuriano/long-public)**: write the stocks you want to own.
+- **[Long](https://github.com/rsuriano/long-app)**: write the stocks you want to own.
   Long builds the index and buys it on Base in one signature.
   [Live app](https://long.bedrocklabs.dev)
 
