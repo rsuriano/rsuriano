@@ -1,6 +1,6 @@
 # Hi, I'm Ramiro
 
-I am a developer in Buenos Aires. I make small, complete products under Bedrock Labs.
+I am a developer. I make small, complete products under Bedrock Labs.
 I have a background in crypto and blockchain. I also make games for fun.
 
 ## What I build
